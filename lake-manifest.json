@@ -61,7 +61,7 @@
    "rev": "bf9724aa3f507588e226671283bd7561812ee67d",
    "name": "mathlib",
    "manifestFile": "lake-manifest.json",
-   "inputRev": null,
+   "inputRev": "bf9724aa3f507588e226671283bd7561812ee67d",
    "inherited": false,
    "configFile": "lakefile.lean"}],
  "name": "bct",
